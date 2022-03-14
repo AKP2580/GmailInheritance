@@ -1,0 +1,7 @@
+pages\LoginPage.class
+tests\MyRunner1.class
+pages\HomePage.class
+pages\LogoutPage.class
+glue\StepDef.class
+pages\ComposePage.class
+tests\MyRunner2.class
